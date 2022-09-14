@@ -8,4 +8,5 @@ public interface TrigonametricOperations
 	public void Cosecvalue();
 
 
+	jgjghjlljkjii
 }
